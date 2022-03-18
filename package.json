@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "AMap": "npm:amap@^1.0.7",
+    "axios": "^0.26.1",
+    "cors": "^2.8.5",
+    "element-ui": "^2.15.6",
+    "file-saver": "^2.0.5",
+    "highlight.js": "^11.5.0",
+    "marked": "^4.0.12",
+    "mavon-editor": "^2.10.4",
+    "vue-amap": "^0.5.10",
+    "vue-axios": "^3.4.1",
+    "vue-baidu-map": "^0.21.22",
+    "vue2-verify": "^1.1.5"
+  },
+  "devDependencies": {
+    "http-proxy-middleware": "^2.0.3"
+  }
+}
